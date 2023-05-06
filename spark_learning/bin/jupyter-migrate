@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/abhishekpathak/Code & Stuff/self/Learning/SPARK/spark_learning/spark_learning/bin/python" "$0" "$@"
+'''exec' "/Users/abhishekpathak/Code & Stuff/self/Learning/SPARK/spark_learning/spark_learning/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
